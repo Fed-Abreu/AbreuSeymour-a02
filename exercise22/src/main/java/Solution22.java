@@ -1,4 +1,8 @@
 import java.util.Scanner;
+/*
+ *  UCF COP3330 Fall 2021 Assignment 2 Solution
+ *  Copyright 2021 Federico Abreu Seymour
+ */
 
 public class Solution22 {
     private void highestNum(int num1, int num2, int num3) {
